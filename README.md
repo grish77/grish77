@@ -1,14 +1,9 @@
-### Hi there 👋, I am Grishma 
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+## Hi there 👋, I am Grishma 
 
 I am a dedicated agronomy enthusiast with a passion for leveraging Artificial Intelligence to explore intricate complexities in Agriculture.
 
-Skills: Python / Remote Sensing 
-
-- 🔭 I’m currently working on this page. 
-
-
-
+- 🌱 I’m currently learning how to implement Machine Learning and Deep Learning in Agriculture
+- 💬 Ask me about High Throughput Phenotyping, Soil Nutrient Management, Remote Sensing in Agriculture
 
 
 
