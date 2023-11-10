@@ -3,7 +3,7 @@
 I am a dedicated agronomy enthusiast with a passion for leveraging Artificial Intelligence to explore intricate complexities in Agriculture.
 
 - 🌱 I’m currently learning how to implement Machine Learning and Deep Learning in Agriculture
-- 💬 Ask me about High Throughput Phenotyping, Soil Nutrient Management, Remote Sensing in Agriculture
+- 💬 Ask me about High Throughput Phenotyping, Soil Fertility, Remote Sensing in Agriculture
 
 
 
